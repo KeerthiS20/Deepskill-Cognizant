@@ -1,0 +1,22 @@
+#Input
+
+
+Enter number of months of revenue data: 6
+Enter revenue for each month:
+1000
+1200
+1100
+1500
+1300
+1600
+Enter window size for moving average: 3
+
+
+#Output
+
+Forecasted Revenue (Moving Average):
+Month 3: 1100.00
+Month 4: 1266.67
+Month 5: 1300.00
+Month 6: 1466.67
+
