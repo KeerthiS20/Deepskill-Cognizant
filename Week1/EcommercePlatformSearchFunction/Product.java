@@ -1,4 +1,4 @@
-package EcommercePlatformSearchFunction;
+package EcommercePlatformSearchFunction ;
 
 public class Product implements Comparable<Product> {
     int productId;

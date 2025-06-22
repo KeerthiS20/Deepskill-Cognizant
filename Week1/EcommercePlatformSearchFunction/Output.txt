@@ -1,0 +1,10 @@
+#OUTPUT:
+
+ Linear Search:
+Found at index: 2 → 103 - Mobile (Electronics)
+
+ Binary Search (on sorted array):
+Found at index: 3 → 103 - Mobile (Electronics)
+
+
+

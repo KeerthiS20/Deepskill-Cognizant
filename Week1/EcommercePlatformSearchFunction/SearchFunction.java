@@ -1,3 +1,5 @@
+package EcommercePlatformSearchFunction ;
+
 import java.util.Arrays;
 
 public class SearchFunction {
