@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useState } from 'react';
 import ListofPlayers from './ListofPlayers';
 import IndianPlayers from './IndianPlayers';

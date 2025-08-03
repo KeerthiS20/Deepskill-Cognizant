@@ -1,4 +1,4 @@
-// src/ListofPlayers.jsx
+
 import React from 'react';
 
 const ListofPlayers = () => {
